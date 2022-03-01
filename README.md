@@ -6,7 +6,7 @@
 % The representative figures Fig 1C-F, Fig 3G-H is plotted by this program.
 
 % "Main_EEG_video_plot.m" is the main program to analyze the videos from the EEG recording.
-% The analysis of total movement in the Fig S2 is done by this program.
+% The analysis of total movement in the Fig 1C, Fig 3G and Fig S2 are done by this program.
 
 % "Main_open_field_trace.m" is the main program to plot the open field traces and quantify the total distance traveled during 15 min open field test.
 % The representative figures Fig 4A-B, Fig 6F is plotted by this program.
