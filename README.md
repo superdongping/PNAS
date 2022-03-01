@@ -1,5 +1,6 @@
 # PNAS
 % These are the codes used to plot, analyze the EEG data and locomotor behavior for a absence seizure mouse model.
+% These codes are written for the MATLAB, tested under MATLAB 2018a version.
 
 % "Main_EEG_Plot_with_SWD_number.m" is the main program to plot the raw EEG recording traces and count the SWD number in the absence seizure mouse models.
 % The representative figures Fig 1C-F, Fig 3G-H is plotted by this program.
