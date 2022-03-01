@@ -8,6 +8,11 @@
 % "Main_EEG_video_plot.m" is the main program to analyze the videos from the EEG recording.
 % The analysis of total movement in the Fig S2 is done by this program.
 
-% Please cite as Dong, P. et al. Neuronal mechanism of a BK channelopathy in absence epilepsy and dyskineisa. PNAS (2022).
+% "Main_open_field_trace.m" is the main program to plot the open field traces and quantify the total distance traveled during 15 min open field test.
+% The representative figures Fig 4A-B, Fig 6F is plotted by this program.
+% This tracing method is based on the subtraction of the image from the video which contain the mouse with the background (without mice).
+% Please note that the open field box is white and the fur of the mouse is black, which is darker than the background.
+
+% If you found these codes are usefull, please cite as Dong, P. et al. Neuronal mechanism of a BK channelopathy in absence epilepsy and dyskineisa. PNAS (2022).
 % If you have any question, please contact Ping Dong via
 % superdongping@gmail.com or ping.dong@duke.edu
