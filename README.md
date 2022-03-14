@@ -13,6 +13,6 @@
 % This tracing method is based on the subtraction of the image from the video which contain the mouse with the background (without mice).
 % Please note that the open field box is white and the fur of the mouse is black, which is darker than the background.
 
-% If you found these codes are usefull, please cite as Dong, P. et al. Neuronal mechanism of a BK channelopathy in absence epilepsy and dyskineisa. PNAS (2022).
+% If you found these codes are usefull, please cite as Dong, P. et al. Neuronal mechanism of a BK channelopathy in absence epilepsy and dyskinesia. Proceedings of the National Academy of Sciences 119, e2200140119, doi:doi:10.1073/pnas.2200140119 (2022).
 % If you have any question, please contact Ping Dong via
 % superdongping@gmail.com or ping.dong@duke.edu
