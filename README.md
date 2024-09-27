@@ -15,4 +15,4 @@
 
 % If you found these codes are usefull, please cite as Dong, P. et al. Neuronal mechanism of a BK channelopathy in absence epilepsy and dyskinesia. Proceedings of the National Academy of Sciences 119, e2200140119, doi:doi:10.1073/pnas.2200140119 (2022).
 % If you have any question, please contact Ping Dong via
-% superdongping@gmail.com or ping.dong@duke.edu or pingdong@unc.edu
+% superdongping@gmail.com or pingdong@unc.edu
